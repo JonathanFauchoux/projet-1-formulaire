@@ -12,7 +12,9 @@
 }
 
 
-
+.error{
+    color: red;
+}
 
 
 .fullForm{
@@ -24,6 +26,7 @@
     
     .logopoulette{
         width: 10em;
+        padding-bottom: 20px;
        
     }
     .titreform{
@@ -39,11 +42,12 @@
         font-weight :bold;
         font-size : 3rem;
         color :#303030;
-        
-    
+         
         }    
-    } 
 
+        
+    } 
+    
 
 
 
@@ -61,3 +65,4 @@
     }
 
 }
+
